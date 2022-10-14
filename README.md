@@ -5,7 +5,7 @@
 Fonte: http://www.atlasbrasil.org.br/ranking
 
 
-** Coberturas Vacinais por Ano segundo Município - BCG **
+**Coberturas Vacinais por Ano segundo Município - BCG**
 
 Estado de São Paulo, 1995-2022
 
