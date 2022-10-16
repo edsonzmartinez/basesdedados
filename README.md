@@ -32,3 +32,5 @@ Data de atualização dos dados: 13/10/2022
 * Analfabetismo: Taxa de analfabetismo - 2010
 
 * Desemprego: Taxa de desemprego - Percentual da população de 16 anos e mais, economicamente ativa, desocupada - 2010
+
+Shapefile das Regiões de Saúde disponível em: https://dados.gov.br/dataset/limites_regiao_saude
