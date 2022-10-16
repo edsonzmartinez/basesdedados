@@ -17,6 +17,8 @@ Data de atualização dos dados: 13/10/2022
 
 **Coberturas Vacinais por ano segundo Região de Saúde - BCG**
 
+* num_mapa: Número da Região de Saúde no shapefile disponibilizado pelo Ministério da Saúde
+
 * BCG1994-2022: Coberturas Vacinais por Ano segundo Região de Saúde (CIR)
 
 * BCGdose1994-2022: Doses por ano segundo Região de Saúde (CIR)
