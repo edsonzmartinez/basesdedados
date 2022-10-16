@@ -17,14 +17,16 @@ Data de atualização dos dados: 13/10/2022
 
 **Coberturas Vacinais por ano segundo Região de Saúde - BCG**
 
-BCG1994-2022: Coberturas Vacinais por Ano segundo Região de Saúde (CIR)
+* BCG1994-2022: Coberturas Vacinais por Ano segundo Região de Saúde (CIR)
 
-BCGdose1994-2022: Doses por ano segundo Região de Saúde (CIR)
+* BCGdose1994-2022: Doses por ano segundo Região de Saúde (CIR)
 
-POP: População residente por Região de Saúde - Estudo de Estimativas Populacionais por Município, Idade e Sexo 2000-2021 - Brasil
+* POP: População residente por Região de Saúde - Estudo de Estimativas Populacionais por Município, Idade e Sexo 2000-2021 - Brasil
 
-PIB: Produto interno bruto per capita - 2010 a 2013, referência 2010. Valores do PIB per capita estão em reais correntes
+* POP1a2000-2021: População residente por Região de Saúde com menos que 1 ano de idade - Estudo de Estimativas Populacionais por Município, Idade e Sexo 2000-2021 - Brasil
 
-Analfabetismo: Taxa de analfabetismo - 2010
+* PIB: Produto interno bruto per capita - 2010 a 2013, referência 2010. Valores do PIB per capita estão em reais correntes
 
-Desemprego: Taxa de desemprego - Percentual da população de 16 anos e mais, economicamente ativa, desocupada - 2010
+* Analfabetismo: Taxa de analfabetismo - 2010
+
+* Desemprego: Taxa de desemprego - Percentual da população de 16 anos e mais, economicamente ativa, desocupada - 2010
