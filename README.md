@@ -23,9 +23,13 @@ Data de atualização dos dados: 13/10/2022
 
 * BCGdose1994-2022: Doses BCG por ano segundo Região de Saúde (CIR)
 
+* TripViraldose2000: Doses da Tríplice Viral por ano segundo Região de Saúde (CIR)
+
 * POP: População residente por Região de Saúde - Estudo de Estimativas Populacionais por Município, Idade e Sexo 2000-2021 - Brasil
 
-* POP1a2000-2021: População residente por Região de Saúde com menos que 1 ano de idade - Estudo de Estimativas Populacionais por Município, Idade e Sexo 2000-2021 - Brasil
+* POPm1a2000-2021: População residente por Região de Saúde com menos que 1 ano de idade - Estudo de Estimativas Populacionais por Município, Idade e Sexo 2000-2021 - Brasil
+
+* POP1a2000-2021: População residente por Região de Saúde com 1 ano de idade - Estudo de Estimativas Populacionais por Município, Idade e Sexo 2000-2021 - Brasil
 
 * PIB: Produto interno bruto per capita - 2010 a 2013, referência 2010. Valores do PIB per capita estão em reais correntes
 
