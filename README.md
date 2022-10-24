@@ -19,11 +19,17 @@ Data de atualização dos dados: 13/10/2022
 
 * num_mapa: Número da Região de Saúde no shapefile disponibilizado pelo Ministério da Saúde
 
-* BCG1994-2022: Coberturas Vacinais BCG por Ano segundo Região de Saúde (CIR)
+* BCG1994-2022: Coberturas Vacinais BCG por ano segundo Região de Saúde (CIR)
 
 * BCGdose1994-2022: Doses BCG por ano segundo Região de Saúde (CIR)
 
-* TripViraldose2000: Doses da Tríplice Viral por ano segundo Região de Saúde (CIR)
+* TripViraldose2000-2022: Doses da Tríplice Viral por ano segundo Região de Saúde (CIR)
+
+* TripViralCV2000-2022: Coberturas Vacinais da Tríplice Viral por ano segundo Região de Saúde (CIR)
+
+* Poliodose2000-2022: Doses da vacina contra Poliomielite por ano segundo Região de Saúde (CIR)
+
+* PolioCV2000-2022: Coberturas Vacinais Poliomielite por ano segundo Região de Saúde (CIR)
 
 * POP: População residente por Região de Saúde - Estudo de Estimativas Populacionais por Município, Idade e Sexo 2000-2021 - Brasil
 
