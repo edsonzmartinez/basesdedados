@@ -19,6 +19,20 @@ Data de atualização dos dados: 13/10/2022
 
 * num_mapa: Número da Região de Saúde no shapefile disponibilizado pelo Ministério da Saúde
 
+* UF: Unidade da Federação
+
+* TRS: Tipologia das regiões de saúde segundo Viana et al. (2015), https://doi.org/10.1590/S0104-12902015000200002
+
+      1. baixo desenvolvimento socioeconômico e baixa oferta de serviços
+
+      2. médio/alto desenvolvimento socioeconômico e baixa oferta de serviços
+
+      3. médio desenvolvimento socioeconômico e média oferta de serviços
+
+      4. alto desenvolvimento socioeconômico e média oferta de serviços
+
+      5. alto desenvolvimento socioeconômico e alta oferta de serviços
+
 * BCG1994-2022: Coberturas Vacinais BCG por ano segundo Região de Saúde (CIR)
 
 * BCGdose1994-2022: Doses BCG por ano segundo Região de Saúde (CIR)
