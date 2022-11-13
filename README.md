@@ -51,9 +51,9 @@ Data de atualização dos dados: 13/10/2022
 
 * TripViralD1dose2000-2021: Doses aplicadas da Tríplice Viral, primeira dose, por ano segundo Região de Saúde (CIR)
 
-* Meningodose2011-2021: Doses da vacina contra Meningococo C por ano segundo Região de Saúde (CIR)
+* Meningodose2011-2021: Doses da vacina contra Meningococo C (<1ano) por ano segundo Região de Saúde (CIR)
 
-* MeningoCV2011-2021: Coberturas Vacinais Meningococo C por ano segundo Região de Saúde (CIR)
+* MeningoCV2011-2021: Coberturas Vacinais Meningococo C (<1ano) por ano segundo Região de Saúde (CIR)
 
 * POP: População residente por Região de Saúde - Estudo de Estimativas Populacionais por Município, Idade e Sexo 2000-2021 - Brasil
 
