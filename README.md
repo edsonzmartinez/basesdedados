@@ -47,6 +47,10 @@ Data de atualização dos dados: 13/10/2022
 
 * PolioCV2000-2022: Coberturas Vacinais Poliomielite por ano segundo Região de Saúde (CIR)
 
+* TripViralD1CV2000-2021: Coberturas Vacinais da Tríplice Viral, primeira dose, por ano segundo Região de Saúde (CIR)
+
+* TripViralD1dose2000-2021: Doses aplicadas da Tríplice Viral, primeira dose, por ano segundo Região de Saúde (CIR)
+
 * POP: População residente por Região de Saúde - Estudo de Estimativas Populacionais por Município, Idade e Sexo 2000-2021 - Brasil
 
 * POPm1a2000-2021: População residente por Região de Saúde com menos que 1 ano de idade - Estudo de Estimativas Populacionais por Município, Idade e Sexo 2000-2021 - Brasil
