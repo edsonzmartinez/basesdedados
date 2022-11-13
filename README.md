@@ -15,11 +15,13 @@ http://tabnet.datasus.gov.br/cgi/dhdat.exe?bd_pni/cpnibr.def
 
 Data de atualização dos dados: 13/10/2022
 
-**Coberturas Vacinais por ano segundo Região de Saúde - BCG**
+**Coberturas Vacinais por ano segundo Região de Saúde - Brasil**
 
 * num_mapa: Número da Região de Saúde no shapefile disponibilizado pelo Ministério da Saúde
 
 * UF: Unidade da Federação
+
+* longitude e latitude: Coordenadas dos centróides das Regiões de Saúde, como polígonos
 
 * TRS: Tipologia das regiões de saúde segundo Viana et al. (2015), https://doi.org/10.1590/S0104-12902015000200002
 
