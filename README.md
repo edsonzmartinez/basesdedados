@@ -71,7 +71,22 @@ Shapefile das Regiões de Saúde disponível em: https://dados.gov.br/dataset/li
 
 **Dados dos Distritos Administrativos do município de Sâo Paulo**
 
-* IMM2006-2019: média das idades das pessoas que morreram em determinado DA no ano em questão.
-  Indicador calculado pelo sistema de informações sobre Mortalidade SIM/PRO-AIM – CEInfo –SMS-SP.
+* IMM2006-2019: média das idades das pessoas que morreram em determinado DA no ano em questão. Indicador calculado pelo sistema de informações sobre Mortalidade SIM/PRO-AIM – CEInfo –SMS-SP.
 
+* TUEF2010-2021: Taxa de Universalização do Ensino Fundamental (%). Percentual de alunos que estudam no Ensino Fundamental da rede pública municipal, estadual, federal e rede privada no município de São Paulo. 100% ou mais pode indicar que a DA atrai população de outras DA da RMSP para estudar. Indicados calculado pelo Censo Escolar do Ministério da Educação (MEC), Fundação Estadual Sistema de Análise de Dados (SEADE) e Secretaria Municipal da Educação (SME).
 
+* TUEB2010-2021: Taxa de Universalização da Educação Básica obrigatória (%). Percentual da população de 4 a 17 anos matriculado na Educação Básica, em Creche, na Pré-escola, Ensino Fundamental e Ensino Médio da redes municipal, estadual, federal e privada da cidade de São Paulo. 100% ou mais pode indicar que a DA atrai população de outras DA da RMSP para estudar. Indicados calculado pelo Censo Escolar do Ministério da Educação (MEC), Fundação Estadual Sistema de Análise de Dados (SEADE) e Secretaria Municipal da Educação (SME).
+
+* POPRUA: Número total de pessoas em situação de rua no município, de acordo com o Censo da População em Situação de Rua, promovido pela Secretaria Municipal de Assistência Social (SMADS).
+
+* BF2013-2020: Quantidade de famílias beneficiárias do Programa Bolsa Família. Dados da Secretaria Municipal de Assistência Social (SMADS).
+
+* FV2010-2021: Porcentagem de domicílios em favelas em relação ao total. Dados da Secretaria Municipal de Habitação (SEHAB).
+
+* AGUA: Proporção de Domicílios não conectados a rede geral de água de acordo com o Censo Demográfico IBGE.
+
+* ESGOTO: Proporção de Domicílios não conectados a rede geral de esgoto de acordo com o Censo Demográfico IBGE.
+
+* EXTPOB2013-2020: Quantidade de famílias com renda de até 1/4 salário mínimo per capita, caracterizando situação de extrema pobreza. Secretaria Municipal de Assistência e Desenvolvimento Social (SMADS); Base CadÚnico - Caixa Econômica Federal - MDSA.
+
+FONTE: https://observasampa.prefeitura.sp.gov.br/index.php
