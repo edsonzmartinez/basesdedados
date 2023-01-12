@@ -68,3 +68,10 @@ Data de atualização dos dados: 13/10/2022
 * Desemprego: Taxa de desemprego - Percentual da população de 16 anos e mais, economicamente ativa, desocupada - 2010
 
 Shapefile das Regiões de Saúde disponível em: https://dados.gov.br/dataset/limites_regiao_saude
+
+**Dados dos Distritos Administrativos do município de Sâo Paulo**
+
+* IMM2006-2019: média das idades das pessoas que morreram em determinado DA no ano em questão.
+  Indicador calculado pelo sistema de informações sobre Mortalidade SIM/PRO-AIM – CEInfo –SMS-SP.
+
+
