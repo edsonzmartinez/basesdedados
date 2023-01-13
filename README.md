@@ -89,4 +89,10 @@ Shapefile das Regiões de Saúde disponível em: https://dados.gov.br/dataset/li
 
 * EXTPOB2013-2020: Quantidade de famílias com renda de até 1/4 salário mínimo per capita, caracterizando situação de extrema pobreza. Secretaria Municipal de Assistência e Desenvolvimento Social (SMADS); Base CadÚnico - Caixa Econômica Federal - MDSA.
 
+* V2007-2020: Nascidos vivos (NV) de mães residentes MSP por parto vaginal segundo DA de residência, excluindo gemelares. SINASC/CEInfo/CIS/SERMAP/SMS/PMSP.
+
+* C2007-2020: Nascidos vivos (NV) de mães residentes MSP por parto cesareano segundo DA de residência, excluindo gemelares. SINASC/CEInfo/CIS/SERMAP/SMS/PMSP.
+
 FONTE: https://observasampa.prefeitura.sp.gov.br/index.php
+
+FONTE: http://tabnet.saude.prefeitura.sp.gov.br/cgi/tabcgi.exe?secretarias/saude/TABNET/sinasc/nascido.def
