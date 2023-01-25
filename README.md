@@ -67,6 +67,24 @@ Data de atualização dos dados: 13/10/2022
 
 * Desemprego: Taxa de desemprego - Percentual da população de 16 anos e mais, economicamente ativa, desocupada - 2010
 
+* pcrirendameio1991/2000/2010: Proporção de crianças em situação domiciliar de baixa renda (menos de meio salário mínimo por ano). Fonte: IBGE - Censos Demográficos.
+
+* pcrirendaquarto1991/2000/2010: Proporção de crianças em situação domiciliar de baixa renda (menos de 1/4 salário mínimo por ano). Fonte: IBGE - Censos Demográficos.
+
+* prendameio1991/2000/2010: Proporção de pessoas com baixa renda (menos de meio salário mínimo por ano). Fonte: IBGE - Censos Demográficos.
+
+* prendaquarto1991/2000/2010: Proporção de pessoas com baixa renda (menos de 1/4 salário mínimo por ano). Fonte: IBGE - Censos Demográficos.
+
+* txtrabinf1991/2000/2010: Taxa de trabalho infantil. Fonte: IBGE - Censos Demográficos.
+
+* NVBPN2010-2020: Nascidos vivos com baixo peso (<2500g) por Região de Saúde de residência da mãe, gravidezes únicas. Fonte: SINASC.
+
+* NVconge2010-2020: Nascidos vivos com algum problema congênito por Região de Saúde de residência da mãe, gravidezes únicas. Fonte: SINASC.
+
+* NVadol2010-2020: Nascidos vivos de mães adolescentes (<20 anos) por Região de Saúde de residência da mãe, gravidezes únicas. Fonte: SINASC.
+
+* NV2010-2020: Nascidos vivos por Região de Saúde de residência da mãe, gravidezes únicas. Fonte: SINASC.
+
 Shapefile das Regiões de Saúde disponível em: https://dados.gov.br/dataset/limites_regiao_saude
 
 **Dados dos Distritos Administrativos do município de Sâo Paulo**
