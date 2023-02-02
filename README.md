@@ -85,6 +85,10 @@ Data de atualização dos dados: 13/10/2022
 
 * NV2010-2020: Nascidos vivos por Região de Saúde de residência da mãe, gravidezes únicas. Fonte: SINASC.
 
+* Nmed2007-2022: Número de médicos por Região de Saúde. Fonte: Ministério da Saúde - Cadastro Nacional dos Estabelecimentos de Saúde do Brasil - CNES
+
+* NmedSUS2007-2022: Número de médicos que atendem pelo SUS, por Região de Saúde. Fonte: Ministério da Saúde - Cadastro Nacional dos Estabelecimentos de Saúde do Brasil - CNES
+
 Shapefile das Regiões de Saúde disponível em: https://dados.gov.br/dataset/limites_regiao_saude
 
 **Dados dos Distritos Administrativos do município de Sâo Paulo**
