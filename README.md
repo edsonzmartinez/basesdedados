@@ -5,7 +5,7 @@
 :page_facing_up: Fonte: http://www.atlasbrasil.org.br/ranking
 
 
-**Coberturas Vacinais por Ano segundo Município - BCG**
+**Coberturas Vacinais por Ano segundo Município - BCG** :syringe:
 
 Estado de São Paulo, 1995-2022
 
@@ -15,7 +15,7 @@ Fonte: Sistema de Informação do Programa Nacional de Imunizações (SI-PNI/CGP
 
 Data de atualização dos dados: 13/10/2022
 
-**Coberturas Vacinais por ano segundo Região de Saúde - Brasil**
+**Coberturas Vacinais por ano segundo Região de Saúde - Brasil** :syringe:
 
 * num_mapa: Número da Região de Saúde no shapefile disponibilizado pelo Ministério da Saúde
 
@@ -91,7 +91,7 @@ Data de atualização dos dados: 13/10/2022
 
 :page_facing_up: Shapefile das Regiões de Saúde disponível em: https://dados.gov.br/dataset/limites_regiao_saude
 
-**Dados dos Distritos Administrativos do município de Sâo Paulo**
+**Dados dos Distritos Administrativos do município de São Paulo**
 
 * IMM2006-2019: média das idades das pessoas que morreram em determinado DA no ano em questão. Indicador calculado pelo sistema de informações sobre Mortalidade SIM/PRO-AIM – CEInfo –SMS-SP.
 
