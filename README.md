@@ -2,7 +2,7 @@
 
 **IDH dos municípios do Brasil**
 
-Fonte: http://www.atlasbrasil.org.br/ranking
+:page_facing_up: Fonte: http://www.atlasbrasil.org.br/ranking
 
 
 **Coberturas Vacinais por Ano segundo Município - BCG**
@@ -11,7 +11,7 @@ Estado de São Paulo, 1995-2022
 
 Fonte: Sistema de Informação do Programa Nacional de Imunizações (SI-PNI/CGPNI/DEIDT/SVS/MS)
 
-http://tabnet.datasus.gov.br/cgi/dhdat.exe?bd_pni/cpnibr.def
+:page_facing_up: http://tabnet.datasus.gov.br/cgi/dhdat.exe?bd_pni/cpnibr.def
 
 Data de atualização dos dados: 13/10/2022
 
@@ -89,7 +89,7 @@ Data de atualização dos dados: 13/10/2022
 
 * NmedSUS2007-2022: Número de médicos que atendem pelo SUS, por Região de Saúde. Fonte: Ministério da Saúde - Cadastro Nacional dos Estabelecimentos de Saúde do Brasil - CNES
 
-Shapefile das Regiões de Saúde disponível em: https://dados.gov.br/dataset/limites_regiao_saude
+:page_facing_up: Shapefile das Regiões de Saúde disponível em: https://dados.gov.br/dataset/limites_regiao_saude
 
 **Dados dos Distritos Administrativos do município de Sâo Paulo**
 
@@ -115,6 +115,6 @@ Shapefile das Regiões de Saúde disponível em: https://dados.gov.br/dataset/li
 
 * C2007-2020: Nascidos vivos (NV) de mães residentes MSP por parto cesareano segundo DA de residência, excluindo gemelares. SINASC/CEInfo/CIS/SERMAP/SMS/PMSP.
 
-FONTE: https://observasampa.prefeitura.sp.gov.br/index.php
+:page_facing_up: FONTE: https://observasampa.prefeitura.sp.gov.br/index.php
 
-FONTE: http://tabnet.saude.prefeitura.sp.gov.br/cgi/tabcgi.exe?secretarias/saude/TABNET/sinasc/nascido.def
+:page_facing_up: FONTE: http://tabnet.saude.prefeitura.sp.gov.br/cgi/tabcgi.exe?secretarias/saude/TABNET/sinasc/nascido.def
