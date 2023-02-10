@@ -89,6 +89,10 @@ Data de atualização dos dados: 13/10/2022
 
 * NmedSUS2007-2022: Número de médicos que atendem pelo SUS, por Região de Saúde. Fonte: Ministério da Saúde - Cadastro Nacional dos Estabelecimentos de Saúde do Brasil - CNES
 
+* Nsalavac: Número de salas de vacina. Fonte: Ministério da Saúde - Cadastro Nacional dos Estabelecimentos de Saúde do Brasil - CNES
+
+* novoPop: População de 2021, usada para o cálculo do número de salas de vacinas por 100 mil habitantes.
+
 :page_facing_up: Shapefile das Regiões de Saúde disponível em: https://dados.gov.br/dataset/limites_regiao_saude
 
 **Dados dos Distritos Administrativos do município de São Paulo**
