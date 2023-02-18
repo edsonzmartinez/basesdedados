@@ -93,6 +93,8 @@ Data de atualização dos dados: 13/10/2022
 
 * novoPop: População de 2021, usada para o cálculo do número de salas de vacinas por 100 mil habitantes.
 
+* Auxilio_Brasil: Número de famílias beneficiárias do Auxílio Brasil, dados de novembro de 2021. Fonte: Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome.
+
 :page_facing_up: Shapefile das Regiões de Saúde disponível em: https://dados.gov.br/dataset/limites_regiao_saude
 
 **Dados dos Distritos Administrativos do município de São Paulo**
