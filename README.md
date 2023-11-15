@@ -1,19 +1,27 @@
 # Bases de dados
 
-**IDH dos municípios do Brasil**
+**IDH dos municípios do Brasil** :syringe:
 
 :page_facing_up: Fonte: http://www.atlasbrasil.org.br/ranking
 
-**IDH das Unidades da Federação**
+**IDH das Unidades da Federação** :syringe:
 
 IDH2021: IDH por unidade federativa
+
 E2021: IDHM-Educação
+
 R2021: IDHM-Renda
+
 L2021: IDHM-Longevidade
+
 EV2020: Expectativa de vida por unidade federativa em 2020
+
 EV2020Homem: Expectativa de vida por unidade federativa em 2020 (homens)
+
 EV2020Mulher: Expectativa de vida por unidade federativa em 2020 (mulheres)
+
 TMI2021: Taxa de mortalidade infantil em 2021
+
 CSA2013: Domicílios em condição de segurança alimentar
 
 **Coberturas Vacinais por Ano segundo Município - BCG** :syringe:
