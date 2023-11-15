@@ -1,10 +1,10 @@
 # Bases de dados
 
-**IDH dos municípios do Brasil** :syringe:
+**IDH dos municípios do Brasil** 🇧🇷
 
 :page_facing_up: Fonte: http://www.atlasbrasil.org.br/ranking
 
-**IDH das Unidades da Federação** :syringe:
+**IDH das Unidades da Federação** 🌐
 
 IDH2021: IDH por unidade federativa
 
