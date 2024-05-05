@@ -144,7 +144,7 @@ Data de atualização dos dados: 13/10/2022
 
 :page_facing_up: FONTE: http://tabnet.saude.prefeitura.sp.gov.br/cgi/tabcgi.exe?secretarias/saude/TABNET/sinasc/nascido.def
 
-**Precipitação em cidades do Rio Grande do Sul**
+**Precipitação em cidades do Rio Grande do Sul, 1990 a 2024**
 
 * ID: Identificação
 * Data_Medicao: Data da medição
@@ -156,4 +156,9 @@ Data de atualização dos dados: 13/10/2022
 * X5: Santa Maria
 * X6: Caxias do Sul
 * X7: Porto Alegre
+* elnino12: Anomalias do Niño, região 1 + 2. Fonte: Ciências Atmosféricas - UNIFEI
+* elnino34: Anomalias do Niño 3.4. Fonte: Ciências Atmosféricas - UNIFEI
+* AAO: Oscilação Antártica (Antartic Oscillation – AAO). Fonte: Ciências Atmosféricas - UNIFEI
 
+:page_facing_up: FONTE: https://bdmep.inmet.gov.br/
+:page_facing_up: FONTE: https://meteorologia.unifei.edu.br/teleconexoes/indice?id=anino12
