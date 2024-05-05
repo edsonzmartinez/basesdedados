@@ -161,4 +161,5 @@ Data de atualização dos dados: 13/10/2022
 * AAO: Oscilação Antártica (Antartic Oscillation – AAO). Fonte: Ciências Atmosféricas - UNIFEI
 
 :page_facing_up: FONTE: https://bdmep.inmet.gov.br/
+
 :page_facing_up: FONTE: https://meteorologia.unifei.edu.br/teleconexoes/indice?id=anino12
