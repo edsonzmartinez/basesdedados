@@ -143,3 +143,17 @@ Data de atualização dos dados: 13/10/2022
 :page_facing_up: FONTE: https://observasampa.prefeitura.sp.gov.br/index.php
 
 :page_facing_up: FONTE: http://tabnet.saude.prefeitura.sp.gov.br/cgi/tabcgi.exe?secretarias/saude/TABNET/sinasc/nascido.def
+
+**Precipitação em cidades do Rio Grande do Sul**
+
+* ID: Identificação
+* Data_Medicao: Data da medição
+* X1 a X7: Precipitação total mensal (mm). Fonte: BDMEP - INMET
+* X1: São Luiz Gonzaga
+* X2: Cruz Alta
+* X3: Passo Fundo
+* X4: Bom Jesus
+* X5: Santa Maria
+* X6: Caxias do Sul
+* X7: Porto Alegre
+
