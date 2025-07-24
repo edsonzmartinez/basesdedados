@@ -163,3 +163,12 @@ Data de atualização dos dados: 13/10/2022
 :page_facing_up: FONTE: https://bdmep.inmet.gov.br/
 
 :page_facing_up: FONTE: https://meteorologia.unifei.edu.br/teleconexoes/indice?id=anino12
+
+**Beneficiários de planos de saúde segundo municípios do Brasil** 🇧🇷
+
+Leitura dos dados:
+
+'''
+urlfile="https://raw.githubusercontent.com/edsonzmartinez/basesdedados/main/saude_suplementar.csv"
+w <- read.csv(urlfile,head=TRUE,sep=";",dec=",")
+'''
