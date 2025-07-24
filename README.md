@@ -166,9 +166,25 @@ Data de atualização dos dados: 13/10/2022
 
 **Beneficiários de planos de saúde segundo municípios do Brasil** 🇧🇷
 
+Fonte: ANS TabNet, Agência Nacional de Saúde Suplementar
+
 Leitura dos dados:
 
-'''
+```
 urlfile="https://raw.githubusercontent.com/edsonzmartinez/basesdedados/main/saude_suplementar.csv"
 w <- read.csv(urlfile,head=TRUE,sep=";",dec=",")
-'''
+```
+
+* Municipio: município
+* cod: código do município
+* mun_ign: Município ignorado (sim ou não)
+* UF: Unidade da Federação
+* Regiao_de_Saude: nome da Região de Saúde	
+* Cod_Reg_Saude: código da Região de Saúde
+* mar25 a mar20: número de beneficiários de plano de saúde a cada mês
+
+Segundo nota da ANS, o termo "beneficiário" refere-se a vínculos aos planos de saúde, podendo incluir vários vínculos para um mesmo indivíduo.
+
+:page_facing_up: FONTE: https://www.ans.gov.br/anstabnet/index.htm
+
+:page_facing_up: FONTE: https://www.ans.gov.br/anstabnet/cgi-bin/dh?dados/tabnet_02.def
