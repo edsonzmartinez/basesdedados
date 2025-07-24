@@ -182,6 +182,10 @@ w <- read.csv(urlfile,head=TRUE,sep=";",dec=",")
 * Regiao_de_Saude: nome da Região de Saúde	
 * Cod_Reg_Saude: código da Região de Saúde
 * Area: área do município, em km2
+* Amazonia_Legal: pertence à Amazônia Legal (sim ou não)
+* Semiarido: pertence ao Semiárido (sim ou não)
+* PIB_2021: Produto Interno Bruto, a preços correntes (R$ 1.000), 2021
+* PIBpercapita_2021: Produto Interno Bruto per capita, a preços correntes (R$ 1,00), 2021
 * mar25 a mar20: número de beneficiários de plano de saúde a cada mês
 
 Segundo nota da ANS, o termo "beneficiário" refere-se a vínculos aos planos de saúde, podendo incluir vários vínculos para um mesmo indivíduo.
