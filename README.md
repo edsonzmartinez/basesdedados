@@ -181,6 +181,7 @@ w <- read.csv(urlfile,head=TRUE,sep=";",dec=",")
 * UF: Unidade da Federação
 * Regiao_de_Saude: nome da Região de Saúde	
 * Cod_Reg_Saude: código da Região de Saúde
+* Area: área do município, em km2
 * mar25 a mar20: número de beneficiários de plano de saúde a cada mês
 
 Segundo nota da ANS, o termo "beneficiário" refere-se a vínculos aos planos de saúde, podendo incluir vários vínculos para um mesmo indivíduo.
