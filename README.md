@@ -186,6 +186,12 @@ w <- read.csv(urlfile,head=TRUE,sep=";",dec=",")
 * Semiarido: pertence ao Semiárido (sim ou não)
 * PIB_2021: Produto Interno Bruto, a preços correntes (R$ 1.000), 2021
 * PIBpercapita_2021: Produto Interno Bruto per capita, a preços correntes (R$ 1,00), 2021
+* Pop_15anosoumais_2022: População com 15 anos ou mais, ambos os sexos, censo demográfico de 2022
+* Pop_15_naoalfa_2022: População com 15 anos ou mais não analfabeta, ambos os sexos, censo demográfico de 2022
+* Pop_25oumais_sup_2022: População com 25 anos ou mais, ambos os sexos, com nível superior, censo demográfico de 2022
+* Pop_25oumais_2022: População com 25 anos ou mais, ambos os sexos, censo demográfico de 2022
+* Pop_6a17anos_escola_2022: População com 6 a 17 anos que frequenta escola, ambos os sexos, censo demográfico de 2022
+* Pop_6a17_2022: População com 6 a 17 anos, ambos os sexos, censo demográfico de 2022
 * mar25 a mar20: número de beneficiários de plano de saúde a cada mês
 
 Segundo nota da ANS, o termo "beneficiário" refere-se a vínculos aos planos de saúde, podendo incluir vários vínculos para um mesmo indivíduo.
