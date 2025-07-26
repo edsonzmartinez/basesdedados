@@ -175,26 +175,55 @@ urlfile="https://raw.githubusercontent.com/edsonzmartinez/basesdedados/main/saud
 w <- read.csv(urlfile,head=TRUE,sep=";",dec=",")
 ```
 
-* Municipio: município
-* cod: código do município
+* Municipio: Município
+* cod: Código do município
 * mun_ign: Município ignorado (sim ou não)
 * UF: Unidade da Federação
-* Regiao_de_Saude: nome da Região de Saúde	
-* Cod_Reg_Saude: código da Região de Saúde
-* Area: área do município, em km2
-* Amazonia_Legal: pertence à Amazônia Legal (sim ou não)
-* Semiarido: pertence ao Semiárido (sim ou não)
+* Regiao_de_Saude: Nome da Região de Saúde	
+* Cod_Reg_Saude: Código da Região de Saúde
+* Area: Área do município, em km2
+* Amazonia_Legal: Pertence à Amazônia Legal (sim ou não)
+* Semiarido: Pertence ao Semiárido (sim ou não)
 * PIB_2021: Produto Interno Bruto, a preços correntes (R$ 1.000), 2021
 * PIBpercapita_2021: Produto Interno Bruto per capita, a preços correntes (R$ 1,00), 2021
+* FCU: População residente em favelas e comunidades urbanas (FCU), censo demográfico de 2022
 * Pop_15anosoumais_2022: População com 15 anos ou mais, ambos os sexos, censo demográfico de 2022
 * Pop_15_naoalfa_2022: População com 15 anos ou mais não analfabeta, ambos os sexos, censo demográfico de 2022
 * Pop_25oumais_sup_2022: População com 25 anos ou mais, ambos os sexos, com nível superior, censo demográfico de 2022
 * Pop_25oumais_2022: População com 25 anos ou mais, ambos os sexos, censo demográfico de 2022
 * Pop_6a17anos_escola_2022: População com 6 a 17 anos que frequenta escola, ambos os sexos, censo demográfico de 2022
 * Pop_6a17_2022: População com 6 a 17 anos, ambos os sexos, censo demográfico de 2022
-* mar25 a mar20: número de beneficiários de plano de saúde a cada mês
+* mar25 a mar20: Número de beneficiários de plano de saúde a cada mês (ver NOTA 1)
+* Total_dom_ocup_2022: Número de domicílios particulares permanentes ocupados, censo demográfico de 2022
+* TES1 a TES9: Domicílios particulares permanentes ocupados, por tipo de esgotamento sanitário, censo demográfico de 2022
+* TES1: Rede geral, rede pluvial ou fossa ligada à rede	
+* TES2: Rede geral ou pluvial		
+* TES3: Fossa séptica ou fossa filtro ligada à rede		
+* TES4: Fossa séptica ou fossa filtro não ligada à rede	
+* TES5: Fossa rudimentar ou buraco		
+* TES6: Vala		
+* TES7: Rio, lago, córrego ou mar		
+* TES8: Outra forma		
+* TES9: Não tinham banheiro nem sanitário	
+* Banh_uso_exc_2022: Domicílios particulares permanentes ocupados, com banheiros de uso exclusivo do domicílio, censo demográfico de 2022
+* REG1 a REG3: Domicílios particulares permanentes ocupados, por existência de ligação à rede geral de distribuição de água e principal forma de abastecimento de água, censo demográfico de 2022
+* REG1: Possui ligação à rede geral e a utiliza como forma principal		
+* REG2: Possui ligação à rede geral, mas utiliza principalmente outra forma	
+* REG3: Não possui ligação com a rede geral	
+* LIXO1 a LIXO5: Domicílios particulares permanentes ocupados, por destino do lixo, censo demográfico de 2022
+* LIXO1: Coletado		
+* LIXO2: Queimado na propriedade		
+* LIXO3: Enterrado na propriedade		
+* LIXO4: Jogado em terreno baldio, encosta ou área pública	
+* LIXO5: Outro destino
+* Num_amostra_pond: Domicílios particulares permanentes ocupados (ver NOTA 2)
+* Internet_2022: Domicílios particulares permanentes ocupados, por existência de conexão domiciliar à Internet (ver NOTA 3)
 
-Segundo nota da ANS, o termo "beneficiário" refere-se a vínculos aos planos de saúde, podendo incluir vários vínculos para um mesmo indivíduo.
+NOTA 1: Segundo nota da ANS, o termo "beneficiário" refere-se a vínculos aos planos de saúde, podendo incluir vários vínculos para um mesmo indivíduo.
+
+NOTA 2: Número obtido para estimativas de acordo com os resultados preliminares da amostra.
+
+NOTA 3: Baseado nos dados dos resultados preliminares da amostra, estimados a partir de áreas de ponderação preliminares.
 
 :page_facing_up: FONTE: https://www.ans.gov.br/anstabnet/index.htm
 
