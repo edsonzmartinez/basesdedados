@@ -218,12 +218,20 @@ w <- read.csv(urlfile,head=TRUE,sep=";",dec=",")
 * LIXO5: Outro destino
 * Num_amostra_pond: Domicílios particulares permanentes ocupados (ver NOTA 2)
 * Internet_2022: Domicílios particulares permanentes ocupados, por existência de conexão domiciliar à Internet (ver NOTA 3)
+* Total_Autismo_2022: População residente diagnosticada com autismo, censo demográfico de 2022 (ver NOTA 2 e NOTA 4)
+* Homens_Autismo_2022: População residente masculina diagnosticada com autismo, censo demográfico de 2022 (ver NOTA 2 e NOTA 4)
+* Mulheres_Autismo_2022: População residente feminina diagnosticada com autismo, censo demográfico de 2022 (ver NOTA 2 e NOTA 4)
+* Pop_Total_2022: População do município, censo demográfico de 2022
+* Pop_Homens_2022: População masculina do município, censo demográfico de 2022	
+* Pop_Mulheres_2022: População feminina do município, censo demográfico de 2022
 
 NOTA 1: Segundo nota da ANS, o termo "beneficiário" refere-se a vínculos aos planos de saúde, podendo incluir vários vínculos para um mesmo indivíduo.
 
 NOTA 2: Número obtido para estimativas de acordo com os resultados preliminares da amostra.
 
 NOTA 3: Baseado nos dados dos resultados preliminares da amostra, estimados a partir de áreas de ponderação preliminares.
+
+NOTA 4: Considera-se pessoa com autismo aquela que respondeu que já foi diagnosticada com autismo por algum profissional de saúde.
 
 :page_facing_up: FONTE: https://www.ans.gov.br/anstabnet/index.htm
 
