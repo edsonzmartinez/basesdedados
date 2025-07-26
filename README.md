@@ -196,9 +196,9 @@ w <- read.csv(urlfile,head=TRUE,sep=";",dec=",")
 * mar25 a mar20: Número de beneficiários de plano de saúde a cada mês (ver NOTA 1)
 * Total_dom_ocup_2022: Número de domicílios particulares permanentes ocupados, censo demográfico de 2022
 * TES1 a TES9: Domicílios particulares permanentes ocupados, por tipo de esgotamento sanitário, censo demográfico de 2022
-* TES1: Rede geral, rede pluvial ou fossa ligada à rede	
-* TES2: Rede geral ou pluvial		
-* TES3: Fossa séptica ou fossa filtro ligada à rede		
+* TES1: Rede geral, rede pluvial ou fossa ligada à rede (Nota: TES1 = TES2 + TES3)
+* TES2: Rede geral ou pluvial (Nota: TES1 = TES2 + TES3)
+* TES3: Fossa séptica ou fossa filtro ligada à rede (Nota: TES1 = TES2 + TES3)
 * TES4: Fossa séptica ou fossa filtro não ligada à rede	
 * TES5: Fossa rudimentar ou buraco		
 * TES6: Vala		
