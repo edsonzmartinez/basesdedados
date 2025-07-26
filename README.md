@@ -224,6 +224,33 @@ w <- read.csv(urlfile,head=TRUE,sep=";",dec=",")
 * Pop_Total_2022: População do município, censo demográfico de 2022
 * Pop_Homens_2022: População masculina do município, censo demográfico de 2022	
 * Pop_Mulheres_2022: População feminina do município, censo demográfico de 2022
+* Pop_Branca_2022: População do município, pessoas brancas, censo demográfico de 2022
+* Pop_Preta_2022: População do município, pessoas pretas, censo demográfico de 2022	
+* Pop_Amarela_2022: População do município, pessoas amarelas, censo demográfico de 2022	
+* Pop_Parda_2022: População do município, pessoas pardas, censo demográfico de 2022	
+* Pop_Indigena_2022: População do município, pessoas indígenas, censo demográfico de 2022	
+* Pop_Branca_Homens_2022: População do município, homens brancos, censo demográfico de 2022
+* Pop_Branca_Mulheres_2022: População do município, mulheres brancas, censo demográfico de 2022
+* Pop_Preta_Homens_2022: População do município, homens pretos, censo demográfico de 2022	
+* Pop_Preta_Mulheres_2022: População do município, mulheres pretas, censo demográfico de 2022	
+* Pop_Amarela_Homens_2022: População do município, homens amarelos, censo demográfico de 2022	
+* Pop_Amarela_Mulheres_2022: População do município, mulheres amarelas, censo demográfico de 2022	
+* Pop_Parda_Homens_2022: População do município, homens pardos, censo demográfico de 2022	
+* Pop_Parda_Mulheres_2022: População do município, mulheres pardas, censo demográfico de 2022	
+* Pop_Indigena_Homens_2022: População do município, homens indígenas, censo demográfico de 2022
+* Pop_Indigena_Mulheres_2022: População do município, mulheres indígenas, censo demográfico de 2022	
+* Pop_Adulta_Homens_2022: População do município, homens com 18 anos ou mais, censo demográfico de 2022
+* Pop_Adulta_Mulheres_2022: População do município, mulheres com 18 anos ou mais, censo demográfico de 2022
+* Pop_Branca_Adulta_Homens_2022: População do município, homens brancos com 18 anos ou mais, censo demográfico de 2022	
+* Pop_Branca_Adulta_Mulheres_2022: População do município, mulheres brancas com 18 anos ou mais, censo demográfico de 2022	
+* Pop_Preta_Adulta_Homens_2022: População do município, homens pretos com 18 anos ou mais, censo demográfico de 2022	
+* Pop_Preta_Adulta_Mulheres_2022: População do município, mulheres pretas com 18 anos ou mais, censo demográfico de 2022	
+* Pop_Amarela_Adulta_Homens_2022: População do município, homens amarelos com 18 anos ou mais, censo demográfico de 2022	
+* Pop_Amarela_Adulta_Mulheres_2022: População do município, mulheres amarelas com 18 anos ou mais, censo demográfico de 2022	
+* Pop_Parda_Adulta_Homens_2022: População do município, homens pardos com 18 anos ou mais, censo demográfico de 2022	
+* Pop_Parda_Adulta_Mulheres_2022: População do município, mulheres pardas com 18 anos ou mais, censo demográfico de 2022
+* Pop_Indigena_Adulta_Homens_2022: População do município, homens indígenas com 18 anos ou mais, censo demográfico de 2022
+* Pop_Indigena_Adulta_Mulheres_2022: População do município, mulheres indígenas com 18 anos ou mais, censo demográfico de 2022
 
 NOTA 1: Segundo nota da ANS, o termo "beneficiário" refere-se a vínculos aos planos de saúde, podendo incluir vários vínculos para um mesmo indivíduo.
 
